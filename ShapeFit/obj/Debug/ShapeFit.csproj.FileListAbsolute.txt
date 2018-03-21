@@ -1,0 +1,13 @@
+C:\Users\Ozan\source\repos\ShapeFit\ShapeFit\bin\Debug\ShapeFit.exe.config
+C:\Users\Ozan\source\repos\ShapeFit\ShapeFit\bin\Debug\ShapeFit.exe
+C:\Users\Ozan\source\repos\ShapeFit\ShapeFit\bin\Debug\ShapeFit.pdb
+C:\Users\Ozan\source\repos\ShapeFit\ShapeFit\obj\Debug\ShapeFit.csprojResolveAssemblyReference.cache
+C:\Users\Ozan\source\repos\ShapeFit\ShapeFit\obj\Debug\ShapeFit.Form1.resources
+C:\Users\Ozan\source\repos\ShapeFit\ShapeFit\obj\Debug\ShapeFit.Properties.Resources.resources
+C:\Users\Ozan\source\repos\ShapeFit\ShapeFit\obj\Debug\ShapeFit.csproj.GenerateResource.Cache
+C:\Users\Ozan\source\repos\ShapeFit\ShapeFit\obj\Debug\ShapeFit.csproj.CoreCompileInputs.cache
+C:\Users\Ozan\source\repos\ShapeFit\ShapeFit\obj\Debug\ShapeFit.exe
+C:\Users\Ozan\source\repos\ShapeFit\ShapeFit\obj\Debug\ShapeFit.pdb
+C:\Users\Ozan\source\repos\ShapeFit\ShapeFit\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Ozan\source\repos\ShapeFit\ShapeFit\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Ozan\source\repos\ShapeFit\ShapeFit\bin\Debug\HtmlAgilityPack.xml
